@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "fix the UI issue in login form ",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Create Server Side api",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "Connection to DB",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "title": "creating frontendRoutes for public pages",
+      "status": "completed"
+    },
+    {
+      "id": 7,
+      "title": "Working On New Project based on MERN Stack",
+      "status": "completed"
+    },
+    {
+      "title": "Starting New React based project on 26june",
+      "status": "pending",
+      "id": 8
+    }
+  ]
+}
